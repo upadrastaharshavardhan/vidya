@@ -1,2 +1,2 @@
 # vidya
-https://upadrastaharshavardhan.github.io/vidya/vidya.html
+https://upadrastaharshavardhan.github.io/vidya/ vidya.html
